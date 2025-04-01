@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "09_Texture_Mapping::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-09_Texture_Mapping-Debug-31a137c039696d33e296.json",
+					"name" : "09_Texture_Mapping",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Easy/Desktop/qg learn/DirectX 11/DirectX11-With-Windows-SDK-master/DirectX11-With-Windows-SDK-master/Project 01-09/09 Texture Mapping/out/build/x64-Debug",
+		"source" : "C:/Users/Easy/Desktop/qg learn/DirectX 11/DirectX11-With-Windows-SDK-master/DirectX11-With-Windows-SDK-master/Project 01-09/09 Texture Mapping"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

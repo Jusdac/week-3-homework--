@@ -1,0 +1,7 @@
+# ninja log v5
+3	250	7638762931161089	CMakeFiles/09_Texture_Mapping.dir/CpuTimer.cpp.obj	758b2fb59059d189
+11	448	7638762933122130	CMakeFiles/09_Texture_Mapping.dir/DXTrace.cpp.obj	c8beb44453ce1ad
+7	637	7638762934988939	CMakeFiles/09_Texture_Mapping.dir/DDSTextureLoader11.cpp.obj	474a23e7c70c1131
+31	690	7638762935540469	CMakeFiles/09_Texture_Mapping.dir/WICTextureLoader11.cpp.obj	db4b2e69d1ec4d7
+25	707	7638762935725930	CMakeFiles/09_Texture_Mapping.dir/Vertex.cpp.obj	cda2d787690ffff0
+41	863	7638762937277991	CMakeFiles/09_Texture_Mapping.dir/d3dUtil.cpp.obj	1de55d2bfcac5965
